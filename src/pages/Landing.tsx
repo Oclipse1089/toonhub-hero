@@ -251,7 +251,7 @@ export default function Landing() {
 
         {/* Bottom-right link */}
         <a
-          href="#"
+          href="/3d-tool"
           className="absolute bottom-6 right-4 sm:bottom-20 sm:right-10 flex items-center gap-2 no-underline opacity-[0.95] hover:opacity-100 transition-opacity duration-200"
           style={{
             zIndex: 60,
